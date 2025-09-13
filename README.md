@@ -1,3 +1,5 @@
+# I am Sri Charana Sai Kireeti
+
 # 🍴 Party Menu App
 
 A React-based web application for selecting dishes for a party menu.  
@@ -8,6 +10,7 @@ Implements filtering, veg/non-veg categorization, ingredient details, and select
 ![App Screenshot](public/images/menu-app.jpg)
 
 ---
+# Deployed Link : https://party-menu-app-sigma.vercel.app/
 
 ## 🚀 Features
 
